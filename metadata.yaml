@@ -1,0 +1,30 @@
+_repo: '-----_24733'
+_version: 0.1.0
+alternative_title: Xin Qiji ci xuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Xin, Qiji
+    alias: 辛棄疾
+    birthdate: 1140
+    deathdate: 1207
+    gutenberg_agent_id: '26705'
+    url: http://www.gutenberg.org/2009/agents/26705
+    wikipedia: http://en.wikipedia.org/wiki/Xin_Qiji
+description: ''
+gutenberg_issued: '2008-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24733'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ci (Chinese poetry)'
+- !lcsh 'Chinese poetry -- Song dynasty, 960-1279'
+- !lcc 'PL'
+title: 辛棄疾詞選
+url: http://www.gutenberg.org/ebooks/24733
